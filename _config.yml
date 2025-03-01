@@ -23,11 +23,12 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   a festival of activist street bands in Minneapolis, Minnesota
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jgysland.github.io/minnehonk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://minnehonk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/so-simple-theme@3.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
