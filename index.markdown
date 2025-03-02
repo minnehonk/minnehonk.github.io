@@ -10,3 +10,4 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 
 * On May 3rd, MinneHONK! will bring music to George Floyd Square from 1pm to 5pm. (Times are approximates and subject to change.)
 * On May 4th, MinneHONK! bands will participate in musical performances coinciding with the [MayDay Parade and Ceremony](https://www.maydaympls.org) proceedings at Powderhorn Park.
+* A third bullet.
