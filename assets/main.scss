@@ -1,0 +1,15 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+img[alt="MinneHONK Banner"] {
+  max-width: 80%;
+  display: block;
+  margin: auto;
+}
+
+.site-nav {
+  border: 0px
+}
