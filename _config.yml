@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: MinneHONK!
-email: ""
+email: "info@minnehonk.org"
 description: >- # this means to ignore newlines until "baseurl:"
   a festival of activist street bands in Minneapolis, Minnesota
 baseurl: "" # the subpath of your site, e.g. /blog
