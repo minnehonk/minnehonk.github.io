@@ -6,7 +6,7 @@ title: MinneHONK! 2025
 layout: default
 ---
 
-# ![MinneHONK Banner](minnehonk.png)
+# ![MinneHONK Banner](minnehonk.png)<span style="display:none">MinneHONK</span>
 
 MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on Saturday May 3 and Sunday, May 4, 2025.
 
