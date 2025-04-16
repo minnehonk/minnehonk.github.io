@@ -18,8 +18,8 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 **Say Their Names Cemetery (37th St & Columbus Ave)**
 * 12:00 - 1:00: _Opening Ceremony_
 
-* 1:00 - 1:45: [Kalpulli KetzalCoatlicue (Aztec Dancers)](https://www.danzaketzal.com/history)
 **Northern Fist (37th St & Chicago Ave)**
+* 1:00 - 1:45: [Kalpulli KetzalCoatlicue](https://www.danzaketzal.com/history)
 * 1:45 - 2:30: [Forward! Marching Band](https://fmbwebsite.wixsite.com/forwardmb)
 * 2:30 - 3:15: [AFOUTAYI](https://www.afoutayidmaco.com)
 * 3:15 - 4:00: [Brass Solidarity](https://brasssolidarity.com/about/)
@@ -32,7 +32,7 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 
 ## Sunday, May 4
 
-There's a lot of cool stuff going on at around Powderhorn Park for Mayday, this is just a short list of where to find MinneHONK! bands that are also participating in Mayday.
+There's a lot of cool stuff going on at Powderhorn Park for Mayday; this is just a short list of where to find MinneHONK! bands that are also participating in Mayday.
 
 **Mayday Parade**
 * 11:00am: parade line-up at Bloomington Ave & E 28th St
