@@ -15,16 +15,16 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 
 ## Saturday, May 3
 
-**Say Their Names Cemetery (37th & Columbus)**
+**Say Their Names Cemetery (37th St & Columbus Ave)**
 * 12:00 - 1:00: _Opening Ceremony_
 
-**Northern Fist (37th & Chicago)**
 * 1:00 - 1:45: [Kalpulli KetzalCoatlicue (Aztec Dancers)](https://www.danzaketzal.com/history)
+**Northern Fist (37th St & Chicago Ave)**
 * 1:45 - 2:30: [Forward! Marching Band](https://fmbwebsite.wixsite.com/forwardmb)
 * 2:30 - 3:15: [AFOUTAYI](https://www.afoutayidmaco.com)
 * 3:15 - 4:00: [Brass Solidarity](https://brasssolidarity.com/about/)
 
-**People's Way (38th & Chicago)**
+**People's Way (38th St & Chicago Ave)**
 * 1:30 - 2:15: [Unlawful Assembly](http://unlawfulassembly.org)
 * 2:15 - 3:00: [Brass Messengers](http://www.brassmessengers.com/about)
 * 3:00 - 4:00: _TBD_ <small>(interested artists, email [info@minnehonk.org](mailto:info@minnehonk.org))</small>
@@ -35,8 +35,8 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 There's a lot of cool stuff going on at around Powderhorn Park for Mayday, this is just a short list of where to find MinneHONK! bands that are also participating in Mayday.
 
 **Mayday Parade**
-* 11:00: parade line-up at [Bloomington Avenue & East 28th Street](geo:44.951941,-93.252489)
-* 12:00: parade start
+* 11:00am: parade line-up at Bloomington Ave & E 28th St
+* 12:00pm: parade start
 
 Route map and other parade information are available at [maydaympls.org/parade](https://maydaympls.org/parade).
 
@@ -46,4 +46,4 @@ Follows the parade, on west side of Powderhorn Lake; more information at [mayday
 
 **Reverie Block Party**
 
-"In the Spirit of MayDay Block Party" [outside Reverie](geo:44.939557,-93.252785) has a musical lineup from 2pm-9pm, including MinneHONK! bands Brass Solidarity at 4pm and Brass Messengers at 8pm. More information at [reveriempls.com/mayday](https://www.reveriempls.com/mayday).
+"In the Spirit of MayDay Block Party" outside Reverie Cafe + Bar (1517 E 35th St) has a musical lineup from 2pm-9pm, including MinneHONK! bands Brass Solidarity at 4pm and Brass Messengers at 8pm. More information at [reveriempls.com/mayday](https://www.reveriempls.com/mayday).
