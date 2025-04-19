@@ -20,7 +20,7 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 We encourage you to bus, bike, walk or roll to George Floyd Square if you are able.
 
 * 🚌 George Floyd Square is served most directly by Metro Transit routes D and 23.
-* 🚲 Bike valet will be provided courtesy Venture Bikes from [[ START ]] to [[ END ]] at [[ LOCATION ]].
+* 🚲 We're working on a bike valet and will update this page once we have one, but there's also lots of signposts around the neighborhood to lock to (as well as fences around Say Their Names Cemetery).
 * 🚗 Parking is available on several adjacent streets, but be aware that Chicago Ave between 37th St and 38th St will be closed to motor vehicles, as will 38th St between Columbus Ave and 10th Ave.
 
 ### Pre-Festival Activities
@@ -32,8 +32,7 @@ More info at [riseandremember.org/events/community-cleanup-day/](https://riseand
 
 **Slow Roll Bike Ride**
 
-Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a few stops to discuss some people and events in the history of neighborhoods that surround George Floyd Square.
-Meet at [[ LOCATION ]] at [[ MEET TIME]], wheels up at [[ ROLL TIME ]].
+Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a few stops to discuss some people and events in the history of neighborhoods that surround George Floyd Square. Meetup time and location is TBD; we'll post it here once we know it!
 
 ### Festival Lineup
 
