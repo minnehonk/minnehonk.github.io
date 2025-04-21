@@ -50,7 +50,8 @@ Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a
 **People's Way (38th St & Chicago Ave)**
 * 1:30 - 2:15: [Unlawful Assembly](http://unlawfulassembly.org)
 * 2:15 - 3:00: [Brass Messengers](http://www.brassmessengers.com/about)
-* 3:00 - 4:00: _TBD_ <small>(interested artists, email [info@minnehonk.org](mailto:info@minnehonk.org))</small>
+* 3:00 - 3:30: [Singing For Liberation](https://bit.ly/tcsongcircles)
+* 3:30 - 4:00: _TBD_ <small>(interested artists, email [info@minnehonk.org](mailto:info@minnehonk.org))</small>
 * 4:00 - 5:30: _Open Jam Session_: everyone's welcome, so bring an instrument and join, even if you're not coming with a band!
 
 ## Sunday, May 4
