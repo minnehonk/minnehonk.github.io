@@ -10,7 +10,9 @@ layout: default
 
 MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on Saturday May 3 and Sunday, May 4, 2025.
 
-* On May 3rd, MinneHONK! will bring music to [George Floyd Square](https://www.openstreetmap.org/?#map=19/44.934158/-93.262500) from 12pm to 5pm.
+* On May 3rd, MinneHONK! will bring music to George Floyd Square for [Rise and Remember's Community Cleanup Day.](https://riseandremember.org/events/community-cleanup-day/).
+    * Community Cleanup Day begins at 9am and runs all day; help out if you're able to.
+    * MinneHONK! opening ceremony begins at noon, performances go until 4pm, and concludes with an jam session at 4pm—and everyone's invited, just bring an instrument if you'd like to join in!
 * On May 4th, MinneHONK! bands will participate in musical performances coinciding with the [Mayday Parade and Ceremony](https://www.maydaympls.org) proceedings at Powderhorn Park.
 
 ## Saturday, May 3
