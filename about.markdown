@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About MinneHONK! + FAQ
+title: About + FAQ
 permalink: /about/
 ---
 
