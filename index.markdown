@@ -30,7 +30,7 @@ We encourage you to bus, bike, walk or roll to George Floyd Square if you are ab
 **George Floyd Square Community Cleanup**
 
 Starting at 9am and continuing throughout the day, Rise and Remember will lead a community cleanup and [names will be repainted on the Mourning Passage](https://georgefloydstreetart.omeka.net/items/show/3597). This is in preparation for the [Rise & Remember Festival 2025](https://riseandremember.org/festival/) on May 23-25, memorializing the 5 year angelversary of George Floyd.
-More info at [riseandremember.org/events/community-cleanup-day/](https://riseandremember.org/events/community-cleanup-day/).
+More info at [riseandremember.org/events/community-cleanup-day](https://riseandremember.org/events/community-cleanup-day/).
 
 **Slow Roll Bike Ride**
 
