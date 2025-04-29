@@ -22,7 +22,7 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 We encourage you to bus, bike, walk or roll to George Floyd Square if you are able.
 
 * 🚌 George Floyd Square is served most directly by Metro Transit routes D and 23.
-* 🚲 We're working on a bike valet and will update this page once we have one, but there's also lots of signposts around the neighborhood to lock to (as well as fences around Say Their Names Cemetery).
+* 🚲 There's a few bike racks and lots of signposts around the neighborhood to lock to. Fences around Say Their Names Cemetery are another good option.
 * 🚗 Parking is available on several adjacent streets, but be aware that Chicago Ave between 37th St and 38th St will be closed to motor vehicles, as will 38th St between Columbus Ave and 10th Ave.
 
 ### Pre-Festival Activities
