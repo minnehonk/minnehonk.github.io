@@ -21,9 +21,9 @@ MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota on S
 
 We encourage you to bus, bike, walk or roll to George Floyd Square if you are able.
 
-* 🚌 George Floyd Square is served most directly by Metro Transit routes D and 23.
+* 🚌 George Floyd Square is served most directly by Metro Transit route D. Routes 11, 14, and 23 have stops within a few blocks. (Note that route 23 will be [detoured between Bloomington Ave and Portland Ave](https://www.metrotransit.org/Data/sites/1/media/alert-maps/23-portbloom-269523.png) on May 3, so it won't service the stops nearest to GFS.)
 * 🚲 There's a few bike racks and lots of signposts around the neighborhood to lock to. Fences around Say Their Names Cemetery are another good option.
-* 🚗 Parking is available on several adjacent streets, but be aware that Chicago Ave between 37th St and 38th St will be closed to motor vehicles, as will 38th St between Columbus Ave and 10th Ave.
+* 🚗 Parking is available on several adjacent streets, but be aware that Chicago Ave between 37th St and 38th St will be closed to motor vehicles, as will westbound traffic on 38th St between Columbus Ave and 10th Ave.
 
 ### Pre-Festival Activities
 
@@ -34,7 +34,8 @@ More info at [riseandremember.org/events/community-cleanup-day](https://riseandr
 
 **Slow Roll Bike Ride**
 
-Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a few stops to discuss some people and events in the history of neighborhoods that surround George Floyd Square. Meetup time and location is TBD; we'll post it here once we know it!
+Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a few stops to discuss some people and events in the history of neighborhoods that surround George Floyd Square.
+Meetup 8:00-8:30am at Venture Bikes (just below 10th Ave bridge on Midtown Greenway). Ride will end with a free lunch back at Venture Bikes around 11:00am, leaving plenty of time to ride back down to GFS.
 
 ### Festival Lineup
 
