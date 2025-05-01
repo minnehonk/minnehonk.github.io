@@ -27,6 +27,8 @@ url: "https://minnehonk.github.io" # the base hostname & protocol for your site,
 
 header_pages:
   - about.md
+  - saturday-may-3.md
+  - sunday-may-4.md
 
 # Build settings
 remote_theme: jekyll/minima@v2.5.2
