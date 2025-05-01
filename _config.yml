@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minnehonk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
-  - about.markdown
+  - about.md
 
 # Build settings
 remote_theme: jekyll/minima@v2.5.2
