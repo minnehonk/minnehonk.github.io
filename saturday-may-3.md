@@ -44,3 +44,26 @@ More info at [riseandremember.org/events/community-cleanup-day](https://riseandr
 
 Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a few stops to discuss some people and events in the history of neighborhoods that surround George Floyd Square.
 Meetup 8:00-8:30am at Venture Bikes (just below 10th Ave bridge on Midtown Greenway). Ride will end with a free lunch back at Venture Bikes around 11:00am, leaving plenty of time to ride back down to GFS for the MinneHONK! opening ceremony and bands.
+
+### The Five Assumptions of George Floyd Square
+
+1. Assume anyone may have COVID (or some other respiratory disease): mask up or back up.
+    * Masks are strongly encouraged for any indoor portions of MinneHONK!
+
+2. Assume someone in this space may be armed: it pays to be polite.
+    * If there are any counter-protesters or other disruptive individuals present, act calmly and do what you can to deescalate the situation.
+    * Please report any hostile or threatening behavior to the security people on duty.
+
+3. Assume everything you do and everything you say will be recorded, so if you have something to say, say it with your whole chest.
+    * There will be photographers and videographers present at MinneHONK!
+
+4. Assume not everyone in this space has your idea of liberation in mind. There are ops everywhere.
+    * Trust that most MinneHONK! participants are coming in good faith, but understand that this is not guaranteed.
+
+5. Assume that everyone in this space has experienced pain, grief, trauma, and thwarted expectations, and sometimes things might come out sideways. So let’s be gentle with each other so we can be dangerous together.
+    * If you hear something that seems problematic, call that person in rather than calling them out.
+    * Treat people at MinneHONK! (and everywhere) with respect and dignity.
+
+### Participation in MinneHONK! is At Your Own Risk
+
+You are attending or participating in MinneHONK! at your own risk and cannot hold anyone, person or organization liable for harm to your person or property.
