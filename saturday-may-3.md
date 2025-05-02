@@ -33,7 +33,7 @@ We encourage you to bus, bike, walk or roll to George Floyd Square if you are ab
 * 🚲 There's a few bike racks and lots of signposts around the neighborhood to lock to. Fences around Say Their Names Cemetery are another good option.
 * 🚗 Parking is available on several adjacent streets, but be aware that Chicago Ave between 37th St and 38th St will be closed to motor vehicles, as will westbound traffic on 38th St between Columbus Ave and 10th Ave.
 
-### Pre-Festival Activities
+### Other Festival Activities
 
 **George Floyd Square Community Cleanup**
 
@@ -44,6 +44,10 @@ More info at [riseandremember.org/events/community-cleanup-day](https://riseandr
 
 Join the Venture Bikes crew for a relaxed bike tour of south Minneapolis, with a few stops to discuss some people and events in the history of neighborhoods that surround George Floyd Square.
 Meetup 8:00-8:30am at Venture Bikes (just below 10th Ave bridge on Midtown Greenway). Ride will end with a free lunch back at Venture Bikes around 11:00am, leaving plenty of time to ride back down to GFS for the MinneHONK! opening ceremony and bands.
+
+**612 MASH**
+
+[612 MASH](https://www.612mash.org) will be at GFS in the med tent (in the parking lot at 3726 Chicago Ave) during MinneHONK! Hopefully you don't need a first responder, but stop by anyway for a free blood pressure and/or blood glucose check.
 
 ### The Five Assumptions of George Floyd Square
 
