@@ -67,3 +67,7 @@ Meetup 8:00-8:30am at Venture Bikes (just below 10th Ave bridge on Midtown Green
 ### Participation in MinneHONK! is At Your Own Risk
 
 You are attending or participating in MinneHONK! at your own risk and cannot hold anyone, person or organization liable for harm to your person or property.
+
+### Safety and Security
+
+Security for George Floyd Square's Community Cleanup Day and MinneHONK! is provided by [PLEDGE](https://www.slaughterinvests.com/pledgetoprotect).
