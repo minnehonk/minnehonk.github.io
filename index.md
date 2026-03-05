@@ -8,4 +8,5 @@ layout: default
 
 # ![MinneHONK Banner](minnehonk.png)<span style="display:none">MinneHONK</span>
 
-MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota, with performances Friday, Saturday, and Sunday, May 1-3, 2026.
+MinneHONK! is a festival of activist street bands in Minneapolis, Minnesota during the first weekend of May.
+Performances are being planned for the evening of Friday, May 1 (location TBA); Saturday, May 2nd at George Floyd Square; and Sunday, May 3rd, in conjunction with Mayday Minneapolis parade and festival in Powderhorn Park.
