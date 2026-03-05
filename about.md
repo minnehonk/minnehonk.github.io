@@ -15,7 +15,7 @@ Working within a framework of a plurality of festivals occurring simultaneously,
 
 Yes! We'll post a volunteer sign-up form here, soon, but in the meanwhile you can [email us](mailto:info@minnehonk.org) with questions.
 
-**Can my organization set up a table at your event!**
+**Can my organization set up a table at your event?**
 
 Yes! We'll post a tabling sign-up form here, soon, but in the meanwhile you can [email us](mailto:info@minnehonk.org) with questions.
 
