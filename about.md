@@ -13,15 +13,11 @@ Working within a framework of a plurality of festivals occurring simultaneously,
 
 **Do you need volunteers?**
 
-Yes! Please fill out the [volunteer form](https://docs.google.com/spreadsheets/d/16ALHXYbLeOjF-NChF5tLf7A4k8rAl3MjNUP7ovfgn6E/edit?gid=0#gid=0) and we'll get back to you.
+Yes! We'll post a volunteer sign-up form here, soon, but in the meanwhile you can [email us](mailto:info@minnehonk.org) with questions.
 
 **Can my organization set up a table at your event!**
 
-Yes! Please fill out the [tabling form](https://docs.google.com/forms/d/e/1FAIpQLSeFsmr0IEp4DEFJiWNqVTeBLfv0AIHLgDNytWnFN-w-VU6k_A/viewform?usp=sharing) and we'll get back to you.
-
-**How can I submit feedback?**
-
-We've got [a survey](https://docs.google.com/forms/d/e/1FAIpQLSda2fFYmWnNFUNxfq2kuJs7vrFPAnYOD-xBUvZkKMNM9TqHtg/viewform?usp=header), please fill it out! Also, you can email us at [info@minnehonk.org](mailto:info@minnehonk.org).
+Yes! We'll post a tabling sign-up form here, soon, but in the meanwhile you can [email us](mailto:info@minnehonk.org) with questions.
 
 **What's with the loon?**
 
