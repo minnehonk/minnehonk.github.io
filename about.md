@@ -13,7 +13,7 @@ Working within a framework of a plurality of festivals occurring simultaneously,
 
 **Do you need volunteers?**
 
-Yes! We'll post a volunteer sign-up form here, soon, but in the meanwhile you can [email us](mailto:info@minnehonk.org) with questions.
+Yes! You can sign up to volunteer [here](https://forms.gle/Dfe9GRDBotPnRFF69), and you can [email us](mailto:info@minnehonk.org) with questions.
 
 **Can my organization set up a table at your event?**
 
