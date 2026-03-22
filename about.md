@@ -17,7 +17,7 @@ Yes! You can sign up to volunteer [here](https://forms.gle/Dfe9GRDBotPnRFF69), a
 
 **Can my organization set up a table at your event?**
 
-Yes! We'll post a tabling sign-up form here, soon, but in the meanwhile you can [email us](mailto:info@minnehonk.org) with questions.
+Yes! You can sign up to table [here](https://forms.gle/jPgRKL5noyBfctqs9), and you can [email us](mailto:info@minnehonk.org) with questions.
 
 **What's with the loon?**
 
