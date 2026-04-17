@@ -31,7 +31,7 @@ Join us for a festival of activist street bands from Minneapolis and across the 
 * **MinneHONK! Eve** Head down the street after the march to kick off MinneHONK! weekend with a round of short performances and a jam session. *6pm to 9pm at Arbeiter Brewing and Moon Palace Patio*
 
 ### Saturday, May 2
-* **George Floyd Square Community Cleanup** Help out a neighborhood cleanup effort and repainting of the mourning passage in preparation for the 2026 Rise and Remember Festival later in May. *Begins 9am on 3700 block of Chicago Ave*
+* **George Floyd Square Community Cleanup** Help out a neighborhood cleanup effort and repainting of the mourning passage in preparation for the 2026 [Rise and Remember Festival](https://riseandremember.org/events/rise-remember-festival/) later in May. *Begins 9am on 3700 block of Chicago Ave*
 * **MinneHONK! Opening Ceremony** *10:30am at Say Their Names Cemetery*
 * **MinneHONK! Performances** Stages at the People's Way (38th St and Chicago Ave) and the Northern Fist (37th St and Chicago Ave). *Noon to 4:30pm*
 * **Communal Jam** Open to all bands and all members of the community. *4:30pm at the People's Way*
