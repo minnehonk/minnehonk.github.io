@@ -5,9 +5,11 @@ permalink: /about/
 ---
 
 # About MinneHONK!
-In the tradition of the [HONK! festival of activist street bands](https://honkfest.org) and other HONK! festivals that take place around the world, members of the activist street band [Brass Solidarity](https://brasssolidarity.com) held the the first MinneHONK! festival in Minneapolis, Minnesota in 2025. This unamplified brass band and music festival will uplift and help prepare for the Rise and Remember festivities that take place later in May.
+In the tradition of the [HONK! festival of activist street bands](https://honkfest.org) and other HONK! festivals that take place around the world, members of the activist street band [Brass Solidarity](https://brasssolidarity.com) held the the first MinneHONK! festival in Minneapolis, Minnesota on May Day weekend in 2025. This unamplified brass band and music festival uplifts and helps prepare for the Rise and Remember festivities that take place later in May.
 
-Working within a framework of a plurality of festivals occurring simultaneously, the goal of this festival is to strengthen the community and cultural fabric in a grassroots oriented manner that encourages people to get out and share music, conversations, and time in community. It has been made possible through funding from [Minnesota Humanities Center](https://www.mnhum.org), [Folk Will Save Us](https://www.folkwillsaveus.org), [Rise and Remember](https://riseandremember.org), and community based efforts to organize.
+Working within a framework of a plurality of festivals occurring simultaneously, a core goal of MinneHONK! is a strengthening of the community and cultural fabric at the grassroots level, encouraging people to get out and share music, conversations, and time in community.
+
+MinneHONK! has been made possible through funding and support from Brass Solidarity, [Folk Will Save Us](https://www.folkwillsaveus.org)[^1], [Rise and Remember](https://riseandremember.org), and community-based organizing efforts.
 
 # FAQ
 
@@ -22,3 +24,5 @@ Yes! You can sign up to table [here](https://forms.gle/jPgRKL5noyBfctqs9), and y
 **What's with the loon?**
 
 Geese honk ([because they're geese](https://www.youtube.com/watch?v=qLepBbZBx3w)) and that's made them an obvious symbol -- even mascot -- for HONK! festivals. But this is Minnesota, and loons are kind of our thing.
+
+[^1]: This Cultural Districts Arts Fund activation is funded in part by the City of Minneapolis Arts & Cultural Affairs Department.
