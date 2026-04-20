@@ -15,6 +15,9 @@ MinneHONK! is back for the first weekend of May in 2026!
 
 Join us for a festival of activist street bands from Minneapolis and across the country, with free and open-to-the-public performances on Friday, May 1st at Arbeiter Brewing; Saturday, May 2nd at George Floyd Square; and Sunday, May 3rd at the Powderhorn Park Mayday parade and festival.
 
+## Get Involved!
+MinneHONK! is a free event, planned and executed entirely by volunteers. If you'd like to help make MinneHONK! happen, we would love to have you! Please [fill out this form](https://docs.google.com/forms/d/1dS3X4wbFe7um1idXuocQhhge9QITcjsfq3qpc6yHIUQ/edit?usp=drivesdk) to register as a volunteer and we'll get in touch soon.
+
 ## Featuring
 [**Brass Liberation Orchestra**](https://brassliberation.org) • *Bay Area, CA*<br>
 [**Brass Messengers**](https://www.brassmessengers.com/about) • *Minneapolis, MN*<br>
@@ -40,6 +43,3 @@ Join us for a festival of activist street bands from Minneapolis and across the 
 * **Mayday Parade** Catch several MinneHONK! bands playing in the parade, among the many other spectacles it has to offer. *Parade steps off at noon from Bloomington Ave and 28th St ([more info](https://www.maydaympls.org/parade))*
 * **Tree of Life Ceremony** Experience a celebration of the joy and resilience of community with dance, theater, music, and puppets. *Ceremony follows parade (approx 3pm) at east side of Powderhorn Lake ([more info](https://www.maydaympls.org/ceremony))*
 * **MinneHONK! Performances** The bands will bring more music of resistance, liberation, and joy to the park after the ceremony. *Following ceremony (approx 4:15pm) on south side of Powderhorn Lake*
-
-## Get Involved!
-MinneHONK! is a free event, planned and executed entirely by volunteers. If you'd like to help make MinneHONK! happen, we would love to have you! Please [fill out this form](https://docs.google.com/forms/d/1dS3X4wbFe7um1idXuocQhhge9QITcjsfq3qpc6yHIUQ/edit?usp=drivesdk) to register as a volunteer and we'll get in touch soon.
