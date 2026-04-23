@@ -16,7 +16,7 @@ MinneHONK! is back for the first weekend of May in 2026!
 Join us for a festival of activist street bands from Minneapolis and across the country, with free and open-to-the-public performances on Friday, May 1st at Arbeiter Brewing; Saturday, May 2nd at George Floyd Square; and Sunday, May 3rd at the Powderhorn Park Mayday parade and festival.
 
 ## Get Involved!
-MinneHONK! is a free event, planned and executed entirely by volunteers. If you'd like to help make MinneHONK! happen, we would love to have you! Please **[fill out this form](https://docs.google.com/forms/d/1dS3X4wbFe7um1idXuocQhhge9QITcjsfq3qpc6yHIUQ/edit?usp=drivesdk) to register as a volunteer** and we'll get in touch soon.
+MinneHONK! is a free event, planned and executed entirely by volunteers. If you'd like to help make MinneHONK! happen, we would love to have you! Please **[fill out this form](/volunteer) to register as a volunteer** and we'll get in touch soon.
 
 ## Featuring
 [**Brass Liberation Orchestra**](https://brassliberation.org) • *Bay Area, CA*<br>

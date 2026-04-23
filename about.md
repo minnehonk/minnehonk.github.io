@@ -15,7 +15,7 @@ MinneHONK! has been made possible through funding and support from Brass Solidar
 
 **Do you need volunteers?**
 
-Yes! You can sign up to volunteer [here](https://forms.gle/Dfe9GRDBotPnRFF69), and you can [email us](mailto:info@minnehonk.org) with questions.
+Yes! You can sign up to volunteer [here](/volunteer), and you can [email us](mailto:info@minnehonk.org) with questions.
 
 **Can my organization set up a table at your event?**
 
