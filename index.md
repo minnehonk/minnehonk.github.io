@@ -31,7 +31,7 @@ MinneHONK! is a free event, planned and executed entirely by volunteers. If you'
 
 ## Schedule
 ### Friday, May 1
-* **International Workers' Day March** Join with your neighbors and fellow workers—and musicians from Unlawful Assembly and Brass Liberation Orchestra!—to demand ICE out of our communities and legalization for all people. *March begins 4:30pm at Lake Street and Chicago Ave ([more info](https://unidos-mn.org/events/2026/5/1/may-day-2026))*
+* **International Workers' Day March** Join your neighbors, fellow workers, and dozens of local advocacy organizations in a march to demand ICE out of our communities and legalization for all people. Unlawful Assembly (with guests from several other MinneHONK! bands) will be bringing music and chant support! *March begins 4:30pm at Lake Street and Chicago Ave ([more info](https://unidos-mn.org/events/2026/5/1/may-day-2026))*
 * **MinneHONK! Eve** Head down the street after the march to kick off MinneHONK! weekend with a round of short performances and a jam session. *6pm to 9pm at Arbeiter Brewing and Moon Palace Patio*
 
 ### Saturday, May 2
