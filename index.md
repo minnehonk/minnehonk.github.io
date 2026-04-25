@@ -22,6 +22,7 @@ MinneHONK! is a free event, planned and executed entirely by volunteers. If you'
 [**Brass Liberation Orchestra**](https://brassliberation.org) • *Bay Area, CA*<br>
 [**Brass Messengers**](https://www.brassmessengers.com/about) • *Minneapolis, MN*<br>
 [**Brass Solidarity**](https://brasssolidarity.com) • *Minneapolis, MN*<br>
+[**Di Bayke Klezmer Band**](https://www.dibayke.band) • *Minneapolis, MN*<br>
 [**Extraordinary Rendition Band**](https://www.extraordinaryrenditionband.com/) • *Providence, RI*<br>
 [**Forward! Marching Band**](https://forwardband.org) • *Madison, WI*<br>
 [**Good Trouble Brass Band**](https://www.goodtroublebrassband.org) • *Somerville, MA*<br>
