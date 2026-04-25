@@ -25,7 +25,7 @@ MinneHONK! is a free event, planned and executed entirely by volunteers. If you'
 [**Extraordinary Rendition Band**](https://www.extraordinaryrenditionband.com/) • *Providence, RI*<br>
 [**Forward! Marching Band**](https://forwardband.org) • *Madison, WI*<br>
 [**Good Trouble Brass Band**](https://www.goodtroublebrassband.org) • *Somerville, MA*<br>
-[**Kalpulli KetzalCoatlique**](https://www.danzaketzal.com/history) • *Minneapolis, MN*<br>
+[**Kalpulli KetzalCoatlicue**](https://www.danzaketzal.com/history) • *Minneapolis, MN*<br>
 [**Unlawful Assembly**](https://unlawfulassembly.org) • *Minneapolis, MN*<br>
 
 ## Schedule
