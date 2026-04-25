@@ -37,7 +37,7 @@ MinneHONK! is a free event, planned and executed entirely by volunteers. If you'
 ### Saturday, May 2
 * **George Floyd Square Community Cleanup** Help out a neighborhood cleanup effort and repainting of the mourning passage in preparation for the 2026 [Rise and Remember Festival](https://riseandremember.org/events/rise-remember-festival/) later in May. *Begins 8am on 3700 block of Chicago Ave*
 * **MinneHONK! Opening Ceremony** *10:30am at Say Their Names Cemetery*
-* **MinneHONK! Performances** Stages at the People's Way (38th St and Chicago Ave) and the Northern Fist (37th St and Chicago Ave). *Noon to 4:00pm*
+* **MinneHONK! Performances** Stages at the People's Way (38th St and Chicago Ave) and the Northern Fist (37th St and Chicago Ave). *11:00am to 4:00pm*
 * **Communal Jam** Open to all bands and all members of the community. *4:00pm at the People's Way*
 
 ### Sunday, May 3
