@@ -8,7 +8,7 @@ layout: default
 ## Friday, May 1: International Workers' Day March & MinneHONK! Eve
 
 ### International Workers' Day March
-Join your neighbors, fellow workers, and dozens of local advocacy organizations in a march to demand ICE out of our communities and legalization for all people. Unlawful Assembly (with guests from other MinneHONK! bands) will be in the march playing music and leading chants! *March begins 4:30pm at Lake Street and Chicago Ave ([more info](https://iceoutnowmn.com)).*
+Join your neighbors, fellow workers, and dozens of local advocacy organizations in a march to demand ICE out of our communities and legalization for all people. [**Unlawful Assembly**](https://unlawfulassembly.org) (with guests from other MinneHONK! bands) will be in the march playing music and leading chants! *March begins 4:30pm at Lake Street and Chicago Ave ([more info](https://iceoutnowmn.com)).*
 
 ### MinneHONK! Eve Kickoff Party
 Head down the block after the march to dance and sing along we usher in the second annual MinneHONK! weekend with a outdoor music at Arbeiter Brewing (3038 Minnehaha Ave) and Moon Palace Patio (3032 Minnehaha Ave).
