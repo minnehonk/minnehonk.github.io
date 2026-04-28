@@ -24,4 +24,4 @@ The bands will bring more music of resistance, liberation, and joy to the park a
 *Performances before and after Tree of Life ceremony on south side of Powderhorn Lake ([stage 4 on this map](https://www.maydaympls.org/map)).*
 
 ### In the Spirit of MayDay Block Party
-Featuring a lineup of local bands starting at 2pm outside Reverie Cafe and Modus Locus Gallery. [**Brass Messengers**](https://www.brassmessengers.com/about) and [**Brass Solidarity**](https://brasssolidarity.com) share an 8pm set to close out the night. *[More info](reveriempls.com/mayday).*
+Featuring a lineup of local bands starting at 2pm outside Reverie Cafe and Modus Locus Gallery. [**Brass Messengers**](https://www.brassmessengers.com/about) and [**Brass Solidarity**](https://brasssolidarity.com) share an 8pm set to close out the night. *[More info](https://reveriempls.com/mayday).*
